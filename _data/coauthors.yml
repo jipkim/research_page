@@ -1,0 +1,63 @@
+"Adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+
+"Podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
+"Rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+
+"Bach": 
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+"Dvorkin":
+  - firstname: ["Yury", "Y."]
+    url: https://engineering.nyu.edu/faculty/uzi-yury-dvorkin
+
+"Khan":
+  - firstname: ["Hafiz Anwar Ullah", "H. A. U."]
+    url: https://scholar.google.com/citations?user=SSV4vMoAAAAJ&hl=en
+
+"Mieth":
+  - firstname: ["Robert", "R."]
+    url: https://scholar.google.com/citations?user=xF6QXAUAAAAJ&hl=en
+
+"Bialek":
+  - firstname: ["Sylwia", "S."]
+    url: https://sites.google.com/site/sylwiabialekecon
+
+"Unel":
+  - firstname: ["Burcin", "B."]
+    url: https://policyintegrity.org/about/bio/burcin-unel
+
+"Park":
+  - firstname: ["Jong-Keun", "J.-K."]
+    url: https://ee.snu.ac.kr/en/faculty/emeritus-professor
+
+"Yoon":
+  - firstname: ["Yong Tae", "Y. T."]
+    url: https://ee.snu.ac.kr/en/faculty/professor?mode=view&profid=p064
+
+"Kim":
+  - firstname: ["Seung Wan", "S."]
+    url: http://cnu.ac.kr/~swakim/
+
+
+"Pollitt":
+  - firstname: ["Michael", "M."]
+    url: https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/michael-pollitt/
+
+"Modestino":
+  - firstname: ["Miguel", "M."]
+    url: https://engineering.nyu.edu/faculty/miguel-modestino
+
+"Frey":
+  - firstname: ["Daniel", "D."]
+    url: https://scholar.google.com/citations?user=JQq9io8AAAAJ&hl=en

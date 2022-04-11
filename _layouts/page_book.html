@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<!-- page.html -->
+
+<!-- <style>
+    img {
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+        margin: -50% 0% 0% 0%;
+        /* 위, , 아래,  왼쪽*/
+    }
+
+</style>
+<img class='your-favorite-image' src="/assets/img_page/Bookshelf-unsplash.jpg"> -->
+
+<!-- <img class='your-favorite-image' src="/assets/img_page/Bookshelf-unsplash.jpg" width="200%" style="vertical-align:middle;margin:-420px 0px 20px 0px"> -->
+
+<div class="post">
+    <header>
+        <div style="
+            position: absolute;
+            top: 6em;
+            left: 0em;
+            background-image: url(/assets/img_page/Bookshelf-unsplash_low.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center bottom;
+            height: 17%;
+            margin-bottom: 10em;
+            margin-top: -2.7em;
+            width: 100%;
+            /* text-shadow: white 0px 0px 2px; */
+            padding-bottom: 0%;
+            opacity: 0.7;  
+        ">
+            </div>
+        <h1 style="
+            margin-top: 0em;
+            text-align: left;
+            margin-left: 2em;
+            padding-bottom: 0em;
+            color: white;
+            font-weight: bold;
+            backdrop-filter: drop-shadow(4px 4px 10px blue);
+            ">
+            {{ page.title }}</h1>
+        <p style="
+            margin-top: 0em;
+            text-align: left;
+            margin-left: 2em;
+            padding-bottom: 0em;
+            color: white;
+            font-weight: bold;
+            backdrop-filter: drop-shadow(4px 4px 10px blue);
+            ">
+            {{ page.description }}</p>
+    </header>
+
+    <article>
+    {{ content }}
+    </article>
+
+</div>
+
